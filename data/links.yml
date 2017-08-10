@@ -20,7 +20,7 @@ tiles:
   tags: ["favorite", "shopping"]
 -
   name: "SEC"
-  url: "https://reddit.com"
+  url: "https://sec.gov"
   img: "logos/SEC.png"
   bg_color: "#5f99cf"
   txt_color: "#ffffff"
