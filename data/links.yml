@@ -32,6 +32,13 @@ tiles:
   txt_color: "#1db954"
   tags: ["favorite", "music"]
 -
+  name: "DOD"
+  url: "https://www.dod.gov/"
+  img: "logos/DOD.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["favorite", "shopping"]
+_
 #   name: "google music"
 #   url: "https://play.google.com/music/listen"
 #   img: "logos/google-music.png"
