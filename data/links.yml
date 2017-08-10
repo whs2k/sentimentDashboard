@@ -38,6 +38,14 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#ff9900"
   tags: ["favorite", "shopping"]
+
+-
+  name: "FSA"
+  url: "https://www.fsa.gov/"
+  img: "logos/FSA.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["favorite", "shopping"]
 _
 #   name: "google music"
 #   url: "https://play.google.com/music/listen"
