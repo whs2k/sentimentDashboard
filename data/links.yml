@@ -22,7 +22,6 @@ tiles:
   name: "SEC"
   url: "https://sec.gov"
   img: "logos/SEC.png"
-  bg_color: "#5f99cf"
   txt_color: "#ffffff"
 -
   name: "spotify"
