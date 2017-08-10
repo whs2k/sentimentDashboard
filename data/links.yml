@@ -12,16 +12,16 @@ tiles:
   bg_color: "rgba(255, 185, 0, 0.8)"
   tags: ["favorite"]
 -
-  name: "amazon"
-  url: "https://amazon.com"
-  img: "logos/amazon.svg"
+  name: "FDA"
+  url: "FDA.html"
+  img: "logos/FDA.png"
   bg_color: "#ffffff"
   txt_color: "#ff9900"
   tags: ["favorite", "shopping"]
 -
-  name: "reddit"
+  name: "SEC"
   url: "https://reddit.com"
-  img: "logos/reddit.svg"
+  img: "logos/SEC.png"
   bg_color: "#5f99cf"
   txt_color: "#ffffff"
 -
