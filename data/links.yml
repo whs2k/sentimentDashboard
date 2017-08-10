@@ -5,12 +5,12 @@ tiles:
   img: "logos/google.svg"
   tags: ["favorite", "search"]
 -
-  name: "bing"
-  url: "https://bing.com"
-  img: "logos/bing.svg"
+  name: "HHS"
+  url: "{{ site.baseurl }}/HHS.html"
+  img: "logos/HHS2.svg"
   txt_color: "#ffffff"
-  bg_color: "#ffb900"
-  tags: ["search"]
+  bg_color: "rgba(255, 185, 0, 0.8)"
+  tags: ["favorite"]
 -
   name: "amazon"
   url: "https://amazon.com"
