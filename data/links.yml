@@ -9,7 +9,7 @@ tiles:
   url: "{{ site.baseurl }}/HHS.html"
   img: "logos/HHS2.svg"
   txt_color: "#ffffff"
-  bg_color: "rgba(255, 185, 0, 0.8)"
+  bg_color: "#ffffff"
   tags: ["favorite"]
 -
   name: "FDA"
