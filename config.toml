@@ -1,13 +1,13 @@
 baseURL = "http://whs2k.github.io/sentimentDashboard"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "Social Dashboard"
 theme = "slate"
 
 publishDir = "docs"
 
 [ params ]
 Favicon = "favicon.ico"
-OpenLinksInNewWindow = true
+OpenLinksInNewWindow = false
 
 [[ params.nav ]]
 name = "favorites"
