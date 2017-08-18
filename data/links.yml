@@ -55,6 +55,94 @@ name: "DOT"
   txt_color: "#ff9900"
   tags: ["transportation"]
 _
+
+name: "HRSA"
+  url: "https://www.hrsa.gov/"
+  img: "logos/hrsa.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
+
+name: "OPHMSA"
+  url: "https://www.ophmsa.gov/"
+  img: "logos/ophmsa.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["industry"]
+_
+
+name: "CDC"
+  url: "https://www.cdc.gov/"
+  img: "logos/cdc.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
+
+name: "CMS"
+  url: "https://www.cms.gov/"
+  img: "logos/cms.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
+
+name: "IRS"
+  url: "https://www.irs.gov/"
+  img: "logos/irs.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["finance"]
+_
+
+name: "SSA"
+  url: "https://www.ssa.gov/"
+  img: "logos/ssa.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["finance"]
+_
+
+name: "IHS"
+  url: "https://www.ihs.gov/"
+  img: "logos/ihs.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
+
+name: "FRA"
+  url: "https://www.fra.gov/"
+  img: "logos/FRA.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["transportation"]
+_
+
+name: "DHS"
+  url: "https://www.dhs.gov/"
+  img: "logos/dhs.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["industry"]
+_
+
+name: "ACL"
+  url: "https://www.acl.gov/"
+  img: "logos/acl.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
+
+name: "ACF"
+  url: "https://www.acf.gov/"
+  img: "logos/acf.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["health"]
+_
 #   name: "google music"
 #   url: "https://play.google.com/music/listen"
 #   img: "logos/google-music.png"
