@@ -47,6 +47,14 @@ tiles:
   txt_color: "#ff9900"
   tags: ["favorite", "shopping"]
 _
+
+name: "DOT"
+  url: "https://www.dot.gov/"
+  img: "logos/dot.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["transportation"]
+_
 #   name: "google music"
 #   url: "https://play.google.com/music/listen"
 #   img: "logos/google-music.png"
