@@ -1,5 +1,5 @@
 ## https://whs2k.github.io/sentimentDashboard/
-# A User Centered Visualization of 
+# A User Centered Visualization of Sentiment Analysis 
 
 #### As a: 
 Grantor or Grantee
